@@ -1,0 +1,453 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dzQ6sDeBL2ogbhy/lSucKOilKn+LN6UmPKk4GRONL6zx9rXeFULNaaj35Td5LfI53LxHy8JdzTyr8Y74ih74Q==",
+  "success": false,
+  "projectFilePath": "F:\\Level 3\\Second Semester\\Server Side web Programming\\Week-6-Exam+Excercise\\MvcMovie-master\\MvcMovie-master\\MvcMovie\\MvcMovie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.aspnetcore.mvc\\2.2.0\\microsoft.aspnetcore.mvc.2.2.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.codeanalysis.common\\2.8.0\\microsoft.codeanalysis.common.2.8.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.codeanalysis.csharp\\2.8.0\\microsoft.codeanalysis.csharp.2.8.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.0.0\\microsoft.codeanalysis.visualbasic.4.0.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.3\\microsoft.entityframeworkcore.design.3.1.3.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.3\\microsoft.entityframeworkcore.sqlserver.3.1.3.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.extensions.logging.debug\\7.0.0\\microsoft.extensions.logging.debug.7.0.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\3.1.4\\microsoft.visualstudio.web.codegeneration.design.3.1.4.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.native.system.io.compression\\4.3.0\\runtime.native.system.io.compression.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.native.system.net.http\\4.3.0\\runtime.native.system.net.http.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.native.system.security.cryptography.apple\\4.3.0\\runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple\\4.3.0\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.collections.immutable\\1.3.0\\system.collections.immutable.1.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.0\\system.diagnostics.diagnosticsource.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.diagnostics.fileversioninfo\\4.3.0\\system.diagnostics.fileversioninfo.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.diagnostics.stacktrace\\4.3.0\\system.diagnostics.stacktrace.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.globalization.calendars\\4.3.0\\system.globalization.calendars.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.globalization.extensions\\4.3.0\\system.globalization.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.io.compression\\4.3.0\\system.io.compression.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\system.io.compression.zipfile.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.linq.queryable\\4.3.0\\system.linq.queryable.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.net.requests\\4.3.0\\system.net.requests.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.net.sockets\\4.3.0\\system.net.sockets.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.net.webheadercollection\\4.3.0\\system.net.webheadercollection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.reflection.metadata\\1.4.1\\system.reflection.metadata.1.4.1.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\system.runtime.numerics.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.security.claims\\4.3.0\\system.security.claims.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.security.cryptography.cng\\4.3.0\\system.security.cryptography.cng.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.security.cryptography.csp\\4.3.0\\system.security.cryptography.csp.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\system.security.cryptography.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.security.cryptography.openssl\\4.3.0\\system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.security.principal\\4.3.0\\system.security.principal.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.security.principal.windows\\4.3.0\\system.security.principal.windows.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.text.encoding.codepages\\4.3.0\\system.text.encoding.codepages.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.threading.tasks.dataflow\\6.0.0\\system.threading.tasks.dataflow.6.0.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.threading.tasks.parallel\\4.3.0\\system.threading.tasks.parallel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.threading.thread\\4.3.0\\system.threading.thread.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.valuetuple\\4.3.0\\system.valuetuple.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aidrous\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MvcMovie depends on Microsoft.AspNetCore.Mvc (>= 1.1.3) but Microsoft.AspNetCore.Mvc 1.1.3 was not found. An approximate best match of Microsoft.AspNetCore.Mvc 2.2.0 was resolved.",
+      "libraryId": "Microsoft.AspNetCore.Mvc",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NETCore.App 2.0.0 depends on Microsoft.CodeAnalysis.CSharp (>= 1.3.0) but Microsoft.CodeAnalysis.CSharp 1.3.0 was not found. An approximate best match of Microsoft.CodeAnalysis.CSharp 2.8.0 was resolved.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NETCore.App 2.0.0 depends on Microsoft.CodeAnalysis.VisualBasic (>= 1.3.0) but Microsoft.CodeAnalysis.VisualBasic 1.3.0 was not found. An approximate best match of Microsoft.CodeAnalysis.VisualBasic 4.0.0 was resolved.",
+      "libraryId": "Microsoft.CodeAnalysis.VisualBasic",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MvcMovie depends on Microsoft.EntityFrameworkCore.Design (>= 1.1.2) but Microsoft.EntityFrameworkCore.Design 1.1.2 was not found. An approximate best match of Microsoft.EntityFrameworkCore.Design 3.1.3 was resolved.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MvcMovie depends on Microsoft.EntityFrameworkCore.SqlServer (>= 1.1.2) but Microsoft.EntityFrameworkCore.SqlServer 1.1.2 was not found. An approximate best match of Microsoft.EntityFrameworkCore.SqlServer 3.1.3 was resolved.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MvcMovie depends on Microsoft.Extensions.Logging.Debug (>= 1.1.2) but Microsoft.Extensions.Logging.Debug 1.1.2 was not found. An approximate best match of Microsoft.Extensions.Logging.Debug 7.0.0 was resolved.",
+      "libraryId": "Microsoft.Extensions.Logging.Debug",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MvcMovie depends on Microsoft.NETCore.App (>= 1.1.2) but Microsoft.NETCore.App 1.1.2 was not found. An approximate best match of Microsoft.NETCore.App 2.0.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NETCore.App 2.0.0 depends on Microsoft.NETCore.DotNetHostPolicy (>= 1.1.2) but Microsoft.NETCore.DotNetHostPolicy 1.1.2 was not found. An approximate best match of Microsoft.NETCore.DotNetHostPolicy 2.0.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.DotNetHostPolicy",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MvcMovie depends on Microsoft.VisualStudio.Web.CodeGeneration.Design (>= 1.1.1) but Microsoft.VisualStudio.Web.CodeGeneration.Design 1.1.1 was not found. An approximate best match of Microsoft.VisualStudio.Web.CodeGeneration.Design 3.1.4 was resolved.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NETCore.App 2.0.0 depends on runtime.native.System.Security.Cryptography.OpenSsl (>= 4.3.1) but runtime.native.System.Security.Cryptography.OpenSsl 4.3.1 was not found. An approximate best match of runtime.native.System.Security.Cryptography.OpenSsl 4.3.2 was resolved.",
+      "libraryId": "runtime.native.System.Security.Cryptography.OpenSsl",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NETCore.App 2.0.0 depends on System.ComponentModel.Annotations (>= 4.3.0) but System.ComponentModel.Annotations 4.3.0 was not found. An approximate best match of System.ComponentModel.Annotations 4.5.0 was resolved.",
+      "libraryId": "System.ComponentModel.Annotations",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NETCore.App 2.0.0 depends on System.Diagnostics.DiagnosticSource (>= 4.3.1) but System.Diagnostics.DiagnosticSource 4.3.1 was not found. An approximate best match of System.Diagnostics.DiagnosticSource 4.5.0 was resolved.",
+      "libraryId": "System.Diagnostics.DiagnosticSource",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NETCore.App 2.0.0 depends on System.Net.Http (>= 4.3.2) but System.Net.Http 4.3.2 was not found. An approximate best match of System.Net.Http 4.3.4 was resolved.",
+      "libraryId": "System.Net.Http",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NETCore.App 2.0.0 depends on System.Numerics.Vectors (>= 4.3.0) but System.Numerics.Vectors 4.3.0 was not found. An approximate best match of System.Numerics.Vectors 4.4.0 was resolved.",
+      "libraryId": "System.Numerics.Vectors",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NETCore.App 2.0.0 depends on System.Reflection.DispatchProxy (>= 4.3.0) but System.Reflection.DispatchProxy 4.3.0 was not found. An approximate best match of System.Reflection.DispatchProxy 4.5.0 was resolved.",
+      "libraryId": "System.Reflection.DispatchProxy",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NETCore.App 2.0.0 depends on System.Threading.Tasks.Dataflow (>= 4.7.0) but System.Threading.Tasks.Dataflow 4.7.0 was not found. An approximate best match of System.Threading.Tasks.Dataflow 6.0.0 was resolved.",
+      "libraryId": "System.Threading.Tasks.Dataflow",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Packag2",
+      "libraryId": "Microsoft.AspNetCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.EntityFrameworkCore.SqlServer.Design. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Packag2",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer.Design",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.StaticFiles. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Packag2",
+      "libraryId": "Microsoft.AspNetCore.StaticFiles",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.ApplicationInsights.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Packag2",
+      "libraryId": "Microsoft.ApplicationInsights.AspNetCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.VisualStudio.Web.BrowserLink. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Packag2",
+      "libraryId": "Microsoft.VisualStudio.Web.BrowserLink",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Libuv. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Packag2",
+      "libraryId": "Libuv",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.DiaSymReader.Native. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Packag2",
+      "libraryId": "Microsoft.DiaSymReader.Native",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package System.IO.FileSystem.Watcher. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Packag2",
+      "libraryId": "System.IO.FileSystem.Watcher",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package System.IO.MemoryMappedFiles. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Packag2",
+      "libraryId": "System.IO.MemoryMappedFiles",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package System.Net.Security. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Packag2",
+      "libraryId": "System.Net.Security",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package System.Resources.Reader. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, Packag2",
+      "libraryId": "System.Resources.Reader",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.Runtime.CoreCLR with version (>= 1.1.2)\r\n  - Found 2 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 1.0.3 ]\r\n  - Found 0 version(s) in C:\\Program Files\\dotnet\\library-packs\r\n  - Found 0 version(s) in Packag2",
+      "libraryId": "Microsoft.NETCore.Runtime.CoreCLR",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.VisualBasic with version (>= 10.1.0)\r\n  - Found 2 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 10.0.1 ]\r\n  - Found 0 version(s) in C:\\Program Files\\dotnet\\library-packs\r\n  - Found 0 version(s) in Packag2",
+      "libraryId": "Microsoft.VisualBasic",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package System.Diagnostics.Process with version (>= 4.3.0)\r\n  - Found 1 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 4.1.0 ]\r\n  - Found 0 version(s) in C:\\Program Files\\dotnet\\library-packs\r\n  - Found 0 version(s) in Packag2",
+      "libraryId": "System.Diagnostics.Process",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package System.IO.UnmanagedMemoryStream with version (>= 4.3.0)\r\n  - Found 2 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 4.0.1 ]\r\n  - Found 0 version(s) in C:\\Program Files\\dotnet\\library-packs\r\n  - Found 0 version(s) in Packag2",
+      "libraryId": "System.IO.UnmanagedMemoryStream",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package System.Linq.Parallel with version (>= 4.3.0)\r\n  - Found 2 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 4.0.1 ]\r\n  - Found 0 version(s) in C:\\Program Files\\dotnet\\library-packs\r\n  - Found 0 version(s) in Packag2",
+      "libraryId": "System.Linq.Parallel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package System.Threading.ThreadPool with version (>= 4.3.0)\r\n  - Found 1 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 4.0.10 ]\r\n  - Found 0 version(s) in C:\\Program Files\\dotnet\\library-packs\r\n  - Found 0 version(s) in Packag2",
+      "libraryId": "System.Threading.ThreadPool",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: System.Collections.Immutable from 1.3.1 to 1.3.0. Reference the package directly from the project to select a different version. \r\n MvcMovie -> Microsoft.NETCore.App 2.0.0 -> Microsoft.CodeAnalysis.CSharp 2.8.0 -> Microsoft.CodeAnalysis.Common 2.8.0 -> System.Collections.Immutable (>= 1.3.1) \r\n MvcMovie -> Microsoft.NETCore.App 2.0.0 -> System.Collections.Immutable (>= 1.3.0)",
+      "libraryId": "System.Collections.Immutable",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: System.Reflection.Metadata from 1.4.2 to 1.4.1. Reference the package directly from the project to select a different version. \r\n MvcMovie -> Microsoft.NETCore.App 2.0.0 -> Microsoft.CodeAnalysis.CSharp 2.8.0 -> Microsoft.CodeAnalysis.Common 2.8.0 -> System.Reflection.Metadata (>= 1.4.2) \r\n MvcMovie -> Microsoft.NETCore.App 2.0.0 -> System.Reflection.Metadata (>= 1.4.1)",
+      "libraryId": "System.Reflection.Metadata",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    }
+  ]
+}
